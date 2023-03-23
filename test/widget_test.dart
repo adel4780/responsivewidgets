@@ -10,11 +10,12 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:responsivewidgets/main.dart';
 import 'package:responsivewidgets/prj1/main1.dart';
+import 'package:responsivewidgets/prj2/main2.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const Prj1());
+    await tester.pumpWidget(const Prj2());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
