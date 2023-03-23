@@ -1,12 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:responsivewidgets/prj1/HomePage.dart';
 
-void main() {
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class Prj1 extends StatelessWidget {
+  const Prj1({super.key});
 
   // This widget is the root of your application.
   @override
