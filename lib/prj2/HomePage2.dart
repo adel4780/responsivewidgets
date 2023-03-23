@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsivewidgets/prj1/resoponsive_helper.dart';
-import 'package:responsivewidgets/prj2/desctop_body.dart';
+import 'package:responsivewidgets/prj2/desktop_body.dart';
 import 'package:responsivewidgets/prj2/mobild_body.dart';
 import 'package:responsivewidgets/prj2/responsive_helper2.dart';
 
